@@ -1,6 +1,7 @@
-### Hi there 👋
-
 [![morikann's GitHub stats](https://github-readme-stats.vercel.app/api?username=morikann&show_icons=true&theme=radical)](https://github.com/morikann/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=morikann&theme=radical
+)](https://github.com/morikann/github-profile-trophy)
 
 <!--
 **morikann/morikann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
